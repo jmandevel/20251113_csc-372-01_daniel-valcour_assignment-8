@@ -1,0 +1,51 @@
+#root {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: black;
+}
+
+section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: darkslategray;
+}
+
+.choice {
+  width: 100px;
+  height: 100px;
+  margin: 0 10px;
+  border: 3px solid black;
+  transition: transform 0.2s, border 0.2s;
+}
+
+.selected {
+  border-color: blue;
+}
+
+.final-choice.win {
+  border-color: green;
+}
+
+.final-choice.tie {
+  border-color: yellow;
+}
+
+.final-choice.lose {
+  border-color: red;
+}
+
+.final-choice.default {
+  border-color: black;
+}
+
+.selectable {
+  cursor: pointer;
+}
+
+.selectable:hover {
+  transform: scale(1.1);
+}
