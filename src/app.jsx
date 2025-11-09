@@ -38,6 +38,7 @@ function App() {
   }
 
   function resetGame() {
+    setRound(round => round = 0);
     setPlayerThrow(null);
     setComputerThrow(null);
     setResult('');
