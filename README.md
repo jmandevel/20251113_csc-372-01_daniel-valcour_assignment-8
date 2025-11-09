@@ -1,3 +1,7 @@
 # Rock Paper Scissors React
 
 This is a React rock paper scissors game!
+
+Video:
+
+https://uncg-my.sharepoint.com/:v:/g/personal/davalcou_uncg_edu/EeFogOYWaS9InR7wRCMR8SMBs6e9FgzFlciuU-EnsjW87g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=h5LQYG
